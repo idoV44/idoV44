@@ -1,6 +1,6 @@
 ### Welcome to my GitHub page! 🧏‍♂️
 - 📜 Computer Science (B.Sc)
-- 👾 Anti Trojan Analyst at RSA Security
+- 👾 Anti Trojan Researcher at RSA Security
 - 🧩 Python & java full stack dev
 - 🛠 Created Selenium-based scripts and crawlers
 - ✉ Mail : idovad8@gmail.com
