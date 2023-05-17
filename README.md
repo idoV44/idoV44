@@ -3,7 +3,7 @@
 - 👾 Anti Trojan Researcher at RSA Security
 - 🧩 Python & java full stack dev
 - 🛠 Created Selenium-based scripts and crawlers
-- ✉ Mail : idovad8@gmail.com
+- ✉ Mail : idoV44@gmail.com
 - 📕 LinkedIn: https://il.linkedin.com/in/ido-nagar-675179242
 
 <p float="left">
